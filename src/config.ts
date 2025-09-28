@@ -97,10 +97,24 @@ export const siteConfig: SiteConfig = {
 			title: "gemini3703", // 主页横幅主标题
 
 			subtitle: [
-				"A Showcase Demo Site",
-				"Carousel Highlight: Innovation",
-				"Carousel Focus: User Experience",
-				"Carousel Spot: Core Advantages",
+				"删繁就简三秋树，领异标新二月花",
+				"预支五百年新意，到了千年又觉陈",
+				"我劝天公重抖擞，不拘一格降人才",
+				"路漫漫其修远兮，吾将上下而求索",
+				"问渠哪得清如许？为有源头活水来",
+				"欲穷千里目，更上一层楼",
+				"沉舟侧畔千帆过，病树前头万木春",
+				"长风破浪会有时，直挂云帆济沧海",
+				"莫愁前路无知己，天下谁人不识君",
+				"千磨万击还坚劲，任尔东西南北风",
+				"宝剑锋从磨砺出，梅花香自苦寒来",
+				"老骥伏枥，志在千里；烈士暮年，壮心不已",
+				"采菊东篱下，悠然见南山",
+				"行到水穷处，坐看云起时",
+				"竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生",
+				"执笔玄铁矿，书幻梦成章",
+				"寻光归去，天启而回"
+				
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -309,7 +323,7 @@ export const commentConfig: CommentConfig = {
 };
 
 export const announcementConfig: AnnouncementConfig = {
-	title: "Announcement", // 公告标题
+	title: "你好呀", // 公告标题
 	content: "欢迎来到我的博客！", // 公告内容
 	closable: true, // 允许用户关闭公告
 	link: {
@@ -447,7 +461,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 
 export const sakuraConfig: SakuraConfig = {
 	enable: true, // 默认关闭樱花特效
-	sakuraNum: 21, // 樱花数量
+	sakuraNum: 7, // 樱花数量
 	limitTimes: -1, // 樱花越界限制次数，-1为无限循环
 	size: {
 		min: 0.5, // 樱花最小尺寸倍数
