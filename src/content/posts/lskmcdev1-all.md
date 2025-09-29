@@ -4,7 +4,7 @@ published: 2025-09-29
 description: "星器内部资料"
 tags: ["dev","lskmc(IL)","C#","WPF"]
 category: 项目规划
-draft: true
+draft: false
 author: "黄子郬"
 ---
 # IL 开发I阶段·实现功能总纲 （无网络服务 无社区 最小可用）
