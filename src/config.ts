@@ -324,10 +324,10 @@ export const commentConfig: CommentConfig = {
 
 export const announcementConfig: AnnouncementConfig = {
 	title: "你好呀", // 公告标题
-	content: "欢迎来到我的博客！", // 公告内容
-	closable: true, // 允许用户关闭公告
+	content: "欢迎回来", // 公告内容
+	closable: false, // 允许用户关闭公告
 	link: {
-		enable: true, // 启用链接
+		enable: false, // 启用链接
 		text: "Learn More", // 链接文本
 		url: "/about/", // 链接 URL
 		external: false, // 内部链接
