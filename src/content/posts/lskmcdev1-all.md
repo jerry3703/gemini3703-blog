@@ -6,6 +6,7 @@ tags: ["dev","lskmc(IL)","C#","WPF"]
 category: 项目规划
 draft: false
 author: "黄子郬"
+pinned: true
 ---
 # IL 开发I阶段·实现功能总纲 （无网络服务 无社区 最小可用）
 ## 需实现功能(lskmcL 启动内核 当前非主用)
