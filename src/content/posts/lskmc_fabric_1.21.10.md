@@ -1,6 +1,6 @@
 ---
 title: lsktp_fabric便捷写法（1.20.9/1.20.10）
-published: 2025-11-2
+published: 2025-11-02
 description: "寻光开发组内部资料"
 tags: ["dev","寻光开发组","JAVA","MC"]
 category: 项目规划

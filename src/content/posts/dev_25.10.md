@@ -63,7 +63,7 @@ public static void MergeFabricAndVanillaJson(string fabricJsonPath, string vanil
 - - -
 # fabric安装 - IL UI实现
 ### 前端
-```xaml
+```xml
 <ui:Page x:Class="lskmc2f.Views.Pages.DownLoadGameDetail"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
